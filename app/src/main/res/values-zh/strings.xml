@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyFood</string>
+    <string name="nameFood" translatable="false">炒麵</string>
+    <string name="nameCountry" translatable="false">中國</string>
+    <drawable name="Flag">@drawable/china</drawable>
+    <drawable name="food">@drawable/food_yakissoba</drawable>
+</resources>
