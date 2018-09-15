@@ -3,6 +3,8 @@
     <string name="app_name">EasyFood</string>
     <string name="nameCountry" translatable="false">Ελλάδα</string>
     <string name="nameFood" translatable="false">Μουσάκα</string>
+    <string name="flagTalkBack" translatable="false">Σημαία της Ελλάδας</string>
+    <string name="foodTalkBack" translatable="false">εικόνα Μουσάκα</string>
     <drawable name="Flag">@drawable/Grecia</drawable>
     <drawable name="food">@drawable/food_Moussaka</drawable>
 </resources>

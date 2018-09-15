@@ -3,6 +3,8 @@
     <string name="app_name">EasyFood</string>
     <string name="nameCountry" translatable="false">المملكة العربية السعودية</string>
     <string name="nameFood" translatable="false">سوف يخنق</string>
+    <string name="flagTalkBack" translatable="false">صورة العلم العربي</string>
+    <string name="foodTalkBack" translatable="false">الصورة تتسلل</string>
     <drawable name="Flag">@drawable/arabia</drawable>
     <drawable name="food">@drawable/food_esfirra</drawable>
 </resources>
