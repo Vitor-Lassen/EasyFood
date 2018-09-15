@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyFood</string>
+    <string name="nameCountry" translatable="false">German</string>
+    <string name="nameFood" translatable="false">Bier</string>
+    <drawable name="Flag">@drawable/german</drawable>
+    <drawable name="food">@drawable/food_bier</drawable>
+</resources>

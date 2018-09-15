@@ -3,5 +3,7 @@
     <string name="nameCountry" translatable="false">Italy</string>
     <string name="nameFood" translatable="false">Lasagna</string>
     <string name="flagTalkBack" translatable="false">image montrant le drapeau de la france </string>
-    <string name="foodTalckBack" translatable="false">photo d une lasagna</string>
+    <string name="foodTalkBack" translatable="false">photo d une lasagna</string>
+    <drawable name="Flag">@drawable/italia</drawable>
+    <drawable name="food">@drawable/food_lazanh</drawable>
 </resources>
