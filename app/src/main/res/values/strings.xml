@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">EasyFood</string>
+    <string name="nameCountry" translatable="false">Italy</string>
+    <string name="nameFood" translatable="false">Lasagna</string>
+    <string name="flagTalkBack" translatable="false">image montrant le drapeau de la france </string>
+    <string name="foodTalckBack" translatable="false">photo d une lasagna</string>
+</resources>
